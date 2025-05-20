@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "eleventy --serve & ping www.11ty.dev"
+    "start": "eleventy --watch & ping www.11ty.dev"
   },
   "keywords": [],
   "author": "",
